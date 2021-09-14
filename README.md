@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @zokenpc
-- 👀 I’m interested in crypto, coding and games.
-- 🌱 I’m currently learning coding
-
+- 👀 I’m interested in coding, crypto and games.
+- 🌱 I’m currently learning coding and working as a granite salesman.
