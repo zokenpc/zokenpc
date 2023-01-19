@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @zokenpc
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning coding and working as a granite salesman.
+- Estudando C# - ASP.NET e MySQL.
+- Se alguém tiver dicas boas pra me passar, aceito todas, valeu.
