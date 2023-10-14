@@ -1,2 +1,1 @@
-- Estudando C# - ASP.NET e MySQL.
-- Se alguém tiver dicas boas pra me passar, aceito todas, valeu.
+- CC: Tweaked
