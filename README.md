@@ -1,1 +1,1 @@
-- CC: Tweaked
+Leraning Minecraft mod development with Java.
